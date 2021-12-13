@@ -34,7 +34,17 @@ yarn add @ricardo-jrm/use-color-converter
 ### <b>Usage</b>
 
 ```ts
-import { ExampleComponent, useExampleHook } from '@ricardo-jrm/use-color-converter';
+import { useHexRgb, useRgbHex } from '@ricardo-jrm/use-color-converter';
+
+useHexRgb('#30a14e')
+->  {
+      r: 48,
+      g: 161,
+      b: 78,
+    }
+
+useRgbHex(48, 161, 78)
+-> '#30a14e'
 ```
 
 <br />
