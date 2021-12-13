@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🟣 `@ricardo-jrm/use-color-converter`
+# 🌘 `@ricardo-jrm/use-color-converter`
 
 <b>Convert colors with React</b>
 
