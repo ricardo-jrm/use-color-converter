@@ -1,8 +1,8 @@
 {
   "name": "@ricardo-jrm/use-color-converter",
   "description": "Convert colors with React",
-  "version": "0.0.0-development",
-  "main": "dist/index.min.js",
+  "version": "0.0.1-development",
+  "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "private": false,
   "repository": {
