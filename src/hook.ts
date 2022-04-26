@@ -1,5 +1,5 @@
 import { useMemo } from 'react';
-import { hexToRgb, rgbToHex } from '@ricardo-jrm/color-converter';
+import { hexToRgb, rgbToHex } from '@ricardojrmcom/color-converter';
 
 /**
  * Converts a color HEX string to RGB object

@@ -1,17 +1,17 @@
 <div align="center">
 
-# 🌘 `@ricardo-jrm/use-color-converter`
+# 🌘 `@ricardojrmcom/use-color-converter`
 
 <b>Convert colors with React</b>
 
-![build](https://img.shields.io/github/workflow/status/ricardo-jrm/use-color-converter/Continuous%20Integration?style=for-the-badge)
-![license](https://img.shields.io/github/license/ricardo-jrm/use-color-converter?style=for-the-badge)
+![build](https://img.shields.io/github/workflow/status/ricardojrmcom/use-color-converter/Continuous%20Integration?style=for-the-badge)
+![license](https://img.shields.io/github/license/ricardojrmcom/use-color-converter?style=for-the-badge)
 
-![author](<https://img.shields.io/badge/Author-Ricardo%20%3Cl1b3r__--%3E%20Mota%20(%40ricardo--jrm)-orange?style=for-the-badge>)
+![author](<https://img.shields.io/badge/Author-Ricardo%20%3Cl1b3r__--%3E%20Mota%20(%40ricardojrmcom)-orange?style=for-the-badge>)
 
-![lang](https://img.shields.io/github/languages/top/ricardo-jrm/use-color-converter?style=for-the-badge)
-![version](https://img.shields.io/npm/v/@ricardo-jrm/use-color-converter?style=for-the-badge)
-![size](https://img.shields.io/bundlephobia/min/@ricardo-jrm/use-color-converter?style=for-the-badge)
+![lang](https://img.shields.io/github/languages/top/ricardojrmcom/use-color-converter?style=for-the-badge)
+![version](https://img.shields.io/npm/v/@ricardojrmcom/use-color-converter?style=for-the-badge)
+![size](https://img.shields.io/bundlephobia/min/@ricardojrmcom/use-color-converter?style=for-the-badge)
 
 </div>
 
@@ -24,9 +24,9 @@
 ### <b>Install</b>
 
 ```ts
-npm install @ricardo-jrm/use-color-converter
+npm install @ricardojrmcom/use-color-converter
 
-yarn add @ricardo-jrm/use-color-converter
+yarn add @ricardojrmcom/use-color-converter
 ```
 
 <br />
@@ -34,7 +34,7 @@ yarn add @ricardo-jrm/use-color-converter
 ### <b>Usage</b>
 
 ```ts
-import { useHexRgb, useRgbHex } from '@ricardo-jrm/use-color-converter';
+import { useHexRgb, useRgbHex } from '@ricardojrmcom/use-color-converter';
 
 useHexRgb('#30a14e')
 ->  {
@@ -55,8 +55,8 @@ useRgbHex(48, 161, 78)
 
 ### <b>License</b>
 
-[MIT](https://github.com/ricardo-jrm/use-color-converter/blob/main/LICENSE) © Ricardo <l1b3r\_-> Mota ([@ricardo-jrm](https://github.com/ricardo-jrm))
+[MIT](https://github.com/ricardojrmcom/use-color-converter/blob/main/LICENSE) © Ricardo <l1b3r\_-> Mota ([@ricardojrmcom](https://github.com/ricardojrmcom))
 
-Bootstrapped with 🟣[@ricardo-jrm/supernova](https://github.com/ricardo-jrm/supernova)
+Bootstrapped with 🟣[@ricardojrmcom/supernova](https://github.com/ricardojrmcom/supernova)
 
 <br />

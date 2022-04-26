@@ -1994,9 +1994,9 @@
   resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.11.0.tgz#6734f8ebc106a0860dff7f92bf90df193f0935d7"
   integrity sha512-zrsUxjLOKAzdewIDRWy9nsV1GQsKBCWaGwsZQlCgr6/q+vjyZhFgqedLfFBuI9anTPEUT4APq9Mu0SZBTzIcGQ==
 
-"@ricardo-jrm/color-converter@^2.0.1":
+"@ricardojrmcom/color-converter@^2.0.1":
   version "2.0.1"
-  resolved "https://registry.yarnpkg.com/@ricardo-jrm/color-converter/-/color-converter-2.0.1.tgz#3ce485d69cc9ccdf6470532eff3d31b23fef6304"
+  resolved "https://registry.yarnpkg.com/@ricardojrmcom/color-converter/-/color-converter-2.0.1.tgz#3ce485d69cc9ccdf6470532eff3d31b23fef6304"
   integrity sha512-cBChTrmPSIYtUOjjUby6rGxnTC74ZBSRk3oJiw2N3us0tbmt5n1W5XrzYt0Ocegs86/hKDb+QpqsDFTwgvj5wQ==
 
 "@semantic-release/commit-analyzer@^9.0.2":

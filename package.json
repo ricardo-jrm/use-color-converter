@@ -1,21 +1,21 @@
 {
-  "name": "@ricardo-jrm/use-color-converter",
+  "name": "@ricardojrmcom/use-color-converter",
   "description": "Convert colors with React",
-  "version": "0.0.1-development",
+  "version": "0.0.2-development",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/ricardo-jrm/use-color-converter.git"
+    "url": "https://github.com/ricardojrmcom/use-color-converter.git"
   },
   "author": {
     "name": "Ricardo Mota",
-    "url": "https://github.com/ricardo-jrm"
+    "url": "https://github.com/ricardojrmcom"
   },
-  "homepage": "https://github.com/ricardo-jrm/use-color-converter#readme",
+  "homepage": "https://github.com/ricardojrmcom/use-color-converter#readme",
   "bugs": {
-    "url": "https://github.com/ricardo-jrm/use-color-converter/issues"
+    "url": "https://github.com/ricardojrmcom/use-color-converter/issues"
   },
   "license": "MIT",
   "keywords": [
@@ -91,7 +91,7 @@
     "webpack-cli": "^4.9.1"
   },
   "dependencies": {
-    "@ricardo-jrm/color-converter": "^2.0.1",
+    "@ricardojrmcom/color-converter": "^4.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
